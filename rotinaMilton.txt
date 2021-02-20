@@ -1,0 +1,23 @@
+Inicio
+Executando processo Despertar;
+	fim do processo;
+Levantar da cama;
+Executar rotina Higiene pessoal;
+	Fim da rotina;
+Iniciar rotina Comunhao com Deus;
+	Fim da rotina;
+Executar Desjejum;
+Verificar agenda do dia;
+Dividir rotina dia 
+	atividades até 11:30h
+		almoço
+	atividades até 18:30h
+		refeição da noite;
+Rotina da noite;
+	Higiene noturna;
+	Comunhão noturna com Deus;
+	fim das rotinas;
+Encerrar atividades do dia;
+Ir para o quarto de dormir;
+Deitar na cama;
+Fim do script;
